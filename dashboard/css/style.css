@@ -97,7 +97,7 @@ header #search input[type="text"] {
     border: 0 none;
     font: 14px Arial,Helvetica,Sans-serif;
     color: #777;
-    width: 190px;
+    width: 380px;
 	margin-bottom:10px;
     padding: 7px 10px ;
     -webkit-border-radius: 4px;
@@ -120,7 +120,7 @@ header #search input[type="submit"]{
 nav { margin: 0px auto 0px auto;display: inline-block;}
 nav .active a{background: #fcab2b!important;}
 
-#menu {background-color:#000;border-bottom: 4px solid #fcab2b;text-align: center;}
+#menu {background-color:#000;border-bottom: 4px solid #fcab2b;text-align: left;}
 #menu ul{padding:0px;margin:0px;list-style: none;}
 #menu ul li{display:inline;}
 #menu ul form {float: left;padding: 0px 20px;}
